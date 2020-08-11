@@ -1,0 +1,12 @@
+Motivaciona poruka dana:
+-Ne odustaj
+-Znam kako ti je trenutno, ali videces kroz par nedelja ima da sijes sve to
+-Malo je zeznuto u pocetku, ali napredak je veoma realan (kako i po znanju tako i po plati), trud se isplati!
+
+
+
+mislim da si se ti Petre skoncentrisao najvise da uradis kako/tako Avg/Mavg. Mi smo gledali shiru sliku - recimo - prvi put si radio sa Dataframes, a ako ih stavis u Excel - mozes da vidis Data odmah i sve i plus da ih menjas kako zelis. Vizuelno ce ti biti jasnije. Takodje mozes da dodajes formule itd. da bi razumeo kako data izgleda, sta radi Avg a sta MAvg po grupaciji podataka. Podaci treba da budu jednostavni i primer jednostavan, ali isto tako da prodjes kroz fajlove, pravljenje Source data, Input/Output i ceo tok - da vidis malo vishe i razumes shiru sliku. Ono sto mi radimo sa klijentima ne moze samo da se ogranichi na 'treba nam formula za MAvg' i to je to. Mora da se napravi deo za citanje podataka, pravljenje po danima/nedeljama, statistika, dizajn foldera i gde se cuvaju privremeni podaci itd. Zato je dobra vezba za tebe da prodjes malo kroz sve to od pocetka do kraja bez 'prechica'. Samo gledaj da imas jednostavnu ideju i primer i onda prodjes kroz ceo tok podataka.
+
+
+cikavladimir@dzonixd.com
+Databar1!

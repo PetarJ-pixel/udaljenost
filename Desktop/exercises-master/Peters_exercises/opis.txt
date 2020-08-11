@@ -1,0 +1,3 @@
+Create 20 CSV files and addd to Git
+Load 20 CSV files to DB and read from them
+Create 20 Pseudo codes and addd to Git
