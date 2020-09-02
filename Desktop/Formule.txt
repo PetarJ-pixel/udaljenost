@@ -1,0 +1,24 @@
+
+2.DODAVANJE FAJLA/OVA U GITHUB
+-git bash mora da se radi tamo gde se dodaje
+-git add "Zvezda.csv" ili git add .->kad hocemo sve da dodamo
+-git commit -m 'dodata zvezda'
+-git push -u origin master
+
+10.AVERAGE/MOVING AVERAGE
+-average za mesec januar 2018 : select godina,avg(temperatura) as 'prosecnaTemperaturaJanuar' from temperature_csv where godina in (2018) and mesec='januar' group by godina
+-moving average :select godina,avg(temperatura) as 'prosecnaTemperaturaJanuar' from temperature_csv where godina in (2018) and mesec in ('januar','februar') group by godina
+
+11.UKLANJANJE FAJLOVA SA GITHUB-A
+-git bash mora da se radi tamo gde se uklanja
+-git rm "Atletiko.csv" uklanja i sa repo i sa fajl sistema,git rm --cached "Atletiko.csv" uklanja samo sa repo...git rm -r folder name
+-git commit -m 'uklonjen atletiko'
+-git push -u origin master
+
+12.OSNOVNE GIT COMANDE
+Repository
+-git init:stvara novi lokalni repositorijum
+-git clone:skida projekat na lokalnu masinu
+-git add: dodaje novi fajl/ove
+-git commit:comituje(tj uradi,izvrsi) promene na glavu ali ne na udaljeni repositorijum
+-git push:salje promene na master brenc udaljenog repositorijuma
